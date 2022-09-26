@@ -1,13 +1,7 @@
-//const fz = {...require('zigbee-herdsman-converters/converters/fromZigbee'), legacy: require('zigbee-herdsman-converters/lib/legacy').fromZigbee};
 const fz = require('zigbee-herdsman-converters/converters/fromZigbee');
 const tz = require('zigbee-herdsman-converters/converters/toZigbee');
 const exposes = require('zigbee-herdsman-converters/lib/exposes');
-//const reporting = require('zigbee-herdsman-converters/lib/reporting');
-//const extend = require('zigbee-herdsman-converters/lib/extend');
-//const globalStore = require('zigbee-herdsman-converters/lib/store');
 const xiaomi = require('zigbee-herdsman-converters/lib/xiaomi');
-//const ota = require('zigbee-herdsman-converters/lib/ota');
-//const constants = require('zigbee-herdsman-converters/lib/constants');
 const e = exposes.presets;
 const ea = exposes.access;
 
