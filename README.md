@@ -15,4 +15,6 @@ Note that you probably already have external_converters: [] in your configuratio
 Enjoy!
 
 Zigbee2mqtt custom converter documentation: https://www.zigbee2mqtt.io/advanced/support-new-devices/01_support_new_devices.html#instructions
+
+
 Remove the custom converter as soon as it will be added in zigbee2mqtt.
