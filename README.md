@@ -1,6 +1,6 @@
 # Zigbee2MQTT Aqara Radiator Thermostat E1 custom converter
 
-* The file atherrade1.js has to be created next to the configuration.yaml (of Zigbee2mqtt)
+* The file `## atherrade1.js` has to be created next to the `## configuration.yaml` (the configuration file can be found in zigbee2mqtt folder)
 * Enable the external converter by adding the following to your Zigbee2MQTT configuration.yaml.
 ```bash
 external_converters:
